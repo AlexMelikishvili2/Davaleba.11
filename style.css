@@ -1,0 +1,637 @@
+
+a {
+    font-family: "Roboto", sans-serif;
+    color: #5863E3;
+    font-size: 17px;
+    font-weight: 700;
+    margin-left: 144px;
+    margin-top: 40px;
+    display: inline-block;
+}
+
+h1 {
+    color: #000000;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 49px;
+    position: absolute;
+    left: 144px;
+    top: 40px;
+}
+
+#Description {
+    font-family: "Roboto", sans-serif;
+    position: absolute;
+    top: 253px;
+    left: 144px;
+    height: 267px;
+    width: 756px;
+    font-weight: 700;
+    font-size: 14px;
+    padding: 20px;
+    color: #99999A;
+}
+
+#sub {
+    font-family: "Roboto", sans-serif;
+    position: absolute;
+    top: 253px;
+    left: 955px; 
+    height: 60px;
+    width: 370px;
+    font-weight: 700;
+    font-size: 14px;
+    padding-left: 20px;
+    color: #99999A;
+}
+
+#Name {
+    font-family: "Roboto", sans-serif;
+    position: absolute;
+    top: 332px;
+    left: 955px; 
+    height: 60px;
+    width: 370px;
+    font-weight: 700;
+    font-size: 14px;
+    padding-left: 20px;
+    color: #99999A;
+}
+
+#Email {
+    font-family: "Roboto", sans-serif;
+    position: absolute;
+    top: 411px;
+    left: 955px; 
+    height: 60px;
+    width: 370px;
+    font-weight: 700;
+    font-size: 14px;
+    padding-left: 20px;
+    color: #99999A;
+}
+
+#send {
+    font-family: "Roboto", sans-serif;
+    position: absolute;
+    top: 500px;
+    left: 955px; 
+    height: 60px;
+    width: 390px;
+    font-weight: 700;
+    font-size: 14px;
+    color: #FBFBFF;
+    background-color: #5968F4;
+}
+
+#eclipse {
+    position: absolute;
+    left: 288px;
+    top: 610px;
+}
+
+#frame {
+    position: absolute;
+    left: 302px;
+    top: 630px;
+}
+
+#eclipse1 {
+    position: absolute;
+    left: 710px;
+    top: 610px;
+}
+
+#phone {
+    position: absolute;
+    left: 718px;
+    top: 624px;
+}
+
+#eclipse2 {
+    position: absolute;
+    left: 1100px;
+    top: 610px;
+}
+
+#frame1 {
+    position: absolute;
+    left: 1122px;
+    top: 625px;
+}
+
+.Email1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #4E4D54;
+    position: absolute;
+    left: 296px;
+    top: 675px;
+}
+
+.Email2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color:#99999A;
+    position: absolute;
+    left: 231px;
+    top: 706px;
+}
+
+.Email3 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color:#99999A;
+    position: absolute;
+    left: 210px;
+    top: 731px;
+}
+
+.phone {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #4E4D54;
+    position: absolute;
+    left: 714px;
+    top: 675px;
+}
+
+.number {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color:#99999A;
+    position: absolute;
+    left: 685px;
+    top: 706px;
+}
+
+.number1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color:#99999A;
+    position: absolute;
+    left: 685px;
+    top: 731px;
+}
+
+.location {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #4E4D54;
+    position: absolute;
+    left: 1095px;
+    top: 675px;
+}
+
+.location1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color:#99999A;
+    position: absolute;
+    left: 1050px;
+    top: 706px;
+}
+
+.location2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color:#99999A;
+    position: absolute;
+    left: 1037px;
+    top: 731px;
+}
+
+.photos {
+    font-family: "Roboto", sans-serif;
+    color: #5863E3;
+    font-size: 17px;
+    font-weight: 700;
+    display: inline-block;
+    margin-top: 780px;
+    left: 144px;
+}
+
+.see {
+    color: #000000;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 49px;
+    position: absolute;
+    left: 144px;
+    top: 840px;
+}
+
+#beach {
+    display: inline-block;
+    margin-top: 180px;
+    margin-left: 138px;
+}
+
+#pool {
+    display: inline-block;
+    margin-top: 180px;
+    margin-left: 85px;
+}
+
+#cafe {
+    display: inline-block;
+    margin-top: 180px;
+    margin-left: 85px;
+}
+
+footer {
+    background: #000000;
+    height: 372px;
+    width: 100%;
+}
+
+.zwta {
+    color: #FFFFFF;
+    position: absolute;
+    top: 1500px;
+    left: 143px;
+    font-weight: 700;
+    font-size: 26px;
+    font-family: "Roboto", sans-serif;
+}
+
+.hotel1 {
+    color: #99999A;
+    position: absolute;
+    top: 1553px;
+    left: 143px;
+    font-weight: 700;
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+}
+
+#fb {
+    position: absolute;
+    top: 1656px;
+    left: 139px;
+}
+
+#twit {
+    position: absolute;
+    top: 1660px;
+    left: 192px;
+}
+
+#google {
+    position: absolute;
+    top: 1660px;
+    left: 237px;
+}
+
+.useful {
+    color: #FFFFFF;
+    position: absolute;
+    top: 1500px;
+    left: 629px;
+    font-weight: 400;
+    font-size: 26px;
+    font-family: "Roboto", sans-serif;
+}
+
+.blog {
+    color:#5863E3;
+    position: absolute;
+    top: 1570px;
+    left: 629px;
+    font-weight: 400;
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+    list-style: none;
+}
+
+.rooms {
+    color:#5863E3;
+    position: absolute;
+    top: 1598px;
+    left: 629px;
+    font-weight: 400;
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+    list-style: none;
+}
+
+.gift {
+    color:#5863E3;
+    position: absolute;
+    top: 1626px;
+    left: 629px;
+    font-weight: 400;
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+    list-style: none;
+}
+
+.test {
+    color:#5863E3;
+    position: absolute;
+    top: 1656px;
+    left: 629px;
+    font-weight: 400;
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+    list-style: none;
+}
+
+.privacy {
+    color: #FFFFFF;
+    position: absolute;
+    top: 1500px;
+    left: 900px;
+    font-weight: 400;
+    font-size: 26px;
+    font-family: "Roboto", sans-serif;
+}
+
+.career {
+    color:#5863E3;
+    position: absolute;
+    top: 1570px;
+    left: 900px;
+    font-weight: 400;
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+    list-style: none;
+}
+
+.about {
+    color:#5863E3;
+    position: absolute;
+    top: 1598px;
+    left: 900px;
+    font-weight: 400;
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+    list-style: none;
+}
+
+.contact {
+    color:#5863E3;
+    position: absolute;
+    top: 1626px;
+    left: 900px;
+    font-weight: 400;
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+    list-style: none;
+}
+
+.service {
+    color:#5863E3;
+    position: absolute;
+    top: 1656px;
+    left: 900px;
+    font-weight: 400;
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+    list-style: none;
+}
+
+.info {
+    color: #FFFFFF;
+    position: absolute;
+    top: 1500px;
+    left: 1130px;
+    font-weight: 400;
+    font-size: 26px;
+    font-family: "Roboto", sans-serif;
+}
+
+.yahoo {
+    color:#FFFFFF;
+    position: absolute;
+    top: 1570px;
+    left: 1165px;
+    font-weight: 400;
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+    list-style: none;
+}
+
+.fa.fa-envelope {
+    color: #5968F4;
+    left: 1140px;
+    top: 1570px;
+    position: absolute;
+    height: 15px;
+    width: 21px;
+}
+
+.number2 {
+    color:#FFFFFF;
+    position: absolute;
+    top: 1610px;
+    left: 1165px;
+    font-weight: 400;
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+    list-style: none;
+}
+
+.str {
+    color:#FFFFFF;
+    position: absolute;
+    top: 1645px;
+    left: 1165px;
+    font-weight: 400;
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+    list-style: none;
+}
+
+.fa.fa-phone {
+    color: #5968F4;
+    left: 1140px;
+    top: 1610px;
+    position: absolute;
+    height: 15px;
+    width: 21px;
+}
+
+.fa.fa-map-marker {
+color: #5968F4;
+left: 1140px;
+top: 1645px;
+position: absolute;
+height: 15px;
+width: 21px;
+}
+
+@media only screen and (max-width: 768px)
+{
+   #Description {
+    width: 170vw;
+    height: 55vw;
+    position: absolute;
+   } 
+
+   #sub {
+    position: absolute;
+    left: 200vw;
+    height: 11vw;
+    width: 50vw;
+   }
+
+   #Name {
+    position: absolute;
+    left: 200vw;
+    height: 11vw;
+    width: 50vw;
+    top: 47vw;
+   }
+
+   #Email {
+    position: absolute;
+    left: 200vw;
+    height: 12vw;
+    width: 50vw;
+    top: 60vw;
+   }
+
+   #send {
+    position: absolute;
+    left: 200vw;
+    height: 11vw;
+    width: 54vw;
+    top: 80vw;
+   }
+
+   #beach {
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 179px;
+
+   }
+
+  #pool {
+   position: absolute;
+   top: 870px;
+   }
+
+  #cafe {
+    position: absolute;
+    left: 850px;
+    top: 870px;
+   }
+
+   footer {
+    width: 300vh;
+    position: absolute;
+    top: 250vw;
+   }
+   .number {
+    width: 100%;
+   }
+
+   .number1 {
+    width: 100%;
+   }
+
+   .location1 {
+    width: 100%;
+   }
+
+   .location2 {
+    width: 100%;
+   }
+
+   .info {
+    width: 100%;
+   }
+
+   .number2 {
+    width: 100%;
+   }
+
+   .str {
+    width: 100%;
+   }
+
+   .zwta {
+    position: absolute;
+    top: 60px;
+   }
+
+   .hotel1 {
+    position: absolute;
+    top: 110px;
+   }
+
+   #fb {
+    position: absolute;
+    top: 225px;
+   }
+
+   #twit {
+    position: absolute;
+    top: 233px;
+   }
+
+   #google {
+    position: absolute;
+    top: 230px;
+   }
+
+   .useful {
+    position: absolute;
+    top: 60px;
+    left: 600px;
+   }
+
+   .blog {
+    position: absolute;
+    top: 125px;
+    left: 600px;
+   }
+
+   .rooms {
+    position: absolute;
+    top: 155px;
+    left: 600px;
+   }
+
+   .gift {
+    position: absolute;
+    top: 185px;
+    left: 600px;
+   }
+
+   .test {
+    position: absolute;
+    top: 210px;
+    left: 600px;
+   }
+
+   #beach {
+    position: absolute;
+    top: 150vw;
+    width: 50vw;
+   }
+
+   #pool {
+    position: absolute;
+    top: 150vw;
+    left: 50vw;
+    width: 50vw;
+   }
+
+   #cafe {
+    position: absolute;
+    top: 150vw;
+    left: 103vw;
+    width: 50vw;
+   }
+}
